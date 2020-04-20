@@ -6,3 +6,5 @@ This is the third commit.
 This is the fourth and final commit for this test.
 
 This is the second branch.
+
+And this is the third branch.
